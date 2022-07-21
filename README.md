@@ -1,3 +1,3 @@
-# private_ws
+# RUST_WS
 
 first steps for Rust Webserver
